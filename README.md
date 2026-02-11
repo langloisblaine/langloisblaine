@@ -1,5 +1,5 @@
 ## Programmer pursuing bachelor of science in computer science.
-## Languages/Tech: Java, C++, Lua, JavaScript, HTML, CSS
+# Languages/Tech: Java, C++, Lua, JavaScript, HTML, CSS
 
 <!--
 **langloisblaine/langloisblaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
